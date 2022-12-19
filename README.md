@@ -8,4 +8,4 @@ decision-level fusion networks, the proposed strategy focuses the results not on
 3. A more concise loss function, namely Reciprocal Loss is designed to simultaneously constrain the uncertainty of individual view and the uncertainty of their fusion. It
 can be used not only to train an end-to-end aerial-ground dual-view remote sensing scene classification model, but also to train a fusion classifier without feature extraction.
 # Dataset 
-[Download the Datasets] (http://www.patreo.dcc.ufmg.br/multi-view-datasets/)
+[Download the Datasets](http://www.patreo.dcc.ufmg.br/multi-view-datasets/)
